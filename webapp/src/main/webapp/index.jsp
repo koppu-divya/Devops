@@ -31,7 +31,8 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning </h1>
+   <h1> This Shows the Automatic Detection of code changes and Automatic build, Test and Deployment
+       which means Continous Integration and Deployment is Done</h1>
 
   
 </form>
